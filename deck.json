@@ -22,6 +22,19 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "{{c1::<i>Seishun eiga</i>}} (青春映画), alias teen film, is a film genre targeted at teenagers and young adults by the plot being based on their special interests, such as coming of age, attempting to fit in, bullying, peer pressure, first love, teen rebellion, conflict with parents, and teen angst or alienation.<br>",
+                        ""
+                    ],
+                    "guid": "h*N^gF<|BJ",
+                    "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+                    "tags": [
+                        "Genres",
+                        "ジャンル"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "<div>The {{c1::Asama-Sansō Jiken}} (浅間山荘事件) was a&nbsp;hostage crisis&nbsp;and police siege in 1972. The police rescue operation on the final day of the standoff was the first marathon live television broadcast in Japan, lasting 10&nbsp;hours and 40&nbsp;minutes. The incident began when five armed members of the&nbsp;United Red Army&nbsp;(URA), following a bloody&nbsp;purge&nbsp;that left fourteen members of the group plus one bystander dead, broke into a mountain lodge below&nbsp;Mount Asama, taking the wife of the lodge-keeper as a hostage.</div>",
                         "<img src=\"AsamaSanso.jpg\">"
                     ],
@@ -482,19 +495,6 @@
             "tags": [
                 "J-History",
                 "歴史"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "{{c1::<i>Seishun eiga</i>}} (青春映画), alias teen film, is a film genre targeted at teenagers and young adults by the plot being based on their special interests, such as coming of age, attempting to fit in, bullying, peer pressure, first love, teen rebellion, conflict with parents, and teen angst or alienation.<br>",
-                ""
-            ],
-            "guid": "h*N^gF<|BJ",
-            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
-            "tags": [
-                "Genres",
-                "ジャンル"
             ]
         },
         {
