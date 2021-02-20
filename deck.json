@@ -11,12 +11,22 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "1183239.jpg",
                 "220px-Ishihara_Mishima.jpg",
+                "220px-Yasuzo_Masumura_(film_director).jpg",
                 "AsamaSanso.jpg",
+                "Capture d’écran de 2021-02-20 23-45-17.png",
+                "Giants_and_Toys-913121432-mmed.jpg",
+                "Kawaita_hana_Pale_Flower-860928125-large.jpg",
                 "_editor_button_styles.css",
+                "focusyoshida1.jpg",
                 "image-original.jpg",
-                "kuritta_kajitsu.jpg"
+                "koji300.jpg",
+                "kuritta_kajitsu.jpg",
+                "paste-789d35322c29394a1dcd269793618670565f0e27.jpg",
+                "shinoda300.jpg"
             ],
+            "mid": 1604518638203,
             "name": "Lesson1",
             "notes": [
                 {
@@ -61,7 +71,28 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<i>An adaptation of the novel of the same name by Shintaro Ishihara, the older brother of cast member Yujiro Ishihara. Two brothers who fall in love with the same woman and the resulting conflict.&nbsp;</i><div><br></div><div>It would later be known as a foundational work of the Sun Tribe genre.<br></div>",
+                        "<i>A young man breaks into a nurses' rooming house and one-by-one kills off the nurses therein.</i><br><br>Based on the mass murder spree of&nbsp;Richard Speck&nbsp;in 1966, who tortured&nbsp;and murdered eight&nbsp;student nurses&nbsp;from&nbsp;South Chicago&nbsp;Community Hospital.",
+                        "1967",
+                        "<img src=\"paste-789d35322c29394a1dcd269793618670565f0e27.jpg\">",
+                        "犯された白衣",
+                        "Okasareta Hakui",
+                        "Violated Angels",
+                        "The complete idiomatic expression of the title would be 白衣の天使 - はくいのてんし, that is nurse as \"angel in white\".",
+                        "<img src=\"koji300.jpg\"><br>",
+                        "<span style=\"color: rgb(77, 81, 86);\">若松孝二</span>",
+                        "Kōji Wakamatsu"
+                    ],
+                    "guid": "CAtr-]o>:Q",
+                    "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+                    "tags": [
+                        "NuuberuBaagu",
+                        "ヌーベルバーグ"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "An adaptation of the novel of the same name by Shintaro Ishihara, the older brother of cast member Yujiro Ishihara. Two brothers who fall in love with the same woman and the resulting conflict.&nbsp;It would later be known as a foundational work of the Sun Tribe genre.&nbsp;<div><br></div><div><b>Notes by De Angelis</b>: Estraneità ai modelli narrativi dell’epoca (erotismo, individualismo, passioni).</div>",
                         "1956",
                         "<img src=\"kuritta_kajitsu.jpg\"><br>",
                         "狂った果実",
@@ -69,7 +100,7 @@
                         "Crazed Fruit",
                         "",
                         "<img src=\"image-original.jpg\">",
-                        "",
+                        "中平康",
                         "Nakahira Ko"
                     ],
                     "guid": "n}BjxTcOB5",
@@ -78,6 +109,37 @@
                         "TaiyozokuEiga",
                         "太陽族映画"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<i>Muraki is a&nbsp;Yakuza&nbsp;hitman just released from prison. At an illegal gambling parlor, he finds himself drawn to a mysterious young woman named Saeko. Though Saeko loses large sums of money, she asks Muraki to find games with larger and larger stakes. The two become involved in an intense mutually destructive relationship.</i><div>Shinoda chose the subject of&nbsp;yakuza&nbsp;as he felt the yakuza world is the only place where a Japanese ceremonial structure is sustained.<i><br></i></div>",
+                        "1964",
+                        "<img src=\"Kawaita_hana_Pale_Flower-860928125-large.jpg\">",
+                        "乾いた花",
+                        "Kawaita hana",
+                        "Pale Flower",
+                        "乾いた is literaly \"dry\", \"parched\"",
+                        "<img src=\"shinoda300.jpg\"><br>",
+                        "篠田 正浩",
+                        "Masahiro Shinoda"
+                    ],
+                    "guid": "rO|99tvp~M",
+                    "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+                    "tags": [
+                        "NuuberuBaagu",
+                        "ヌーベルバーグ"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Iwanami Eiga Seisakusho}} (岩波映画製作所) was a Japanese film production company. Founded in 1950 by people associated with the&nbsp;Iwanami Shoten&nbsp;publisher, it mainly focused on producing educational films and public relations documentaries.<span style=\"font-size: 16.6667px;\"> </span>Younger filmmakers later formed the Blue Group ({{c2::<b>Ao no Kai</b>}}) to discuss and debate documentary and cinema, and from their members emerged several of Japan's prominent postwar fiction and documentary film directors and cinematographers, including&nbsp;<b>Shinsuke Ogawa</b> and <b>Noriaki Tsuchimoto</b>.",
+                        ""
+                    ],
+                    "guid": "qk?S#qmW?F",
+                    "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
@@ -105,12 +167,86 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div>Who is the right-wing politician and author of the novel&nbsp;<i>Kurutta kajitsu</i>&nbsp;(狂った果実),&nbsp;Crazed Fruit, 1956, here in a photo with Mishima?</div>",
+                        "<div>Who is the right-wing politician and author of the novel&nbsp;<i>Kurutta kajitsu</i>&nbsp;(狂った果実)?</div>",
                         "Shintaro Ishihara&nbsp;(石原 慎太郎, born 30 September 1932)",
-                        "<img src=\"220px-Ishihara_Mishima.jpg\">"
+                        "<div><i>Ishihara (above) with Mishima</i></div><div><br></div><img src=\"220px-Ishihara_Mishima.jpg\">"
                     ],
                     "guid": "bsv1-Tf,^x",
                     "note_model_uuid": "d9627262-73a1-11eb-92c9-4daffdb5cb18",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Portrays the increasingly frenzied efforts of the World candy company to compete with the rival Giant and Apollo companies over caramel sales. Originally a story written by&nbsp;Takeshi Kaikō, an entry in the \"business novel\" (経済小説,&nbsp;keizai shōsetsu) genre, which satirizes Japanese workers' devotion to their corporations.",
+                        "1958",
+                        "<img src=\"Giants_and_Toys-913121432-mmed.jpg\">",
+                        "巨人と玩具",
+                        "Kyojin to gangu",
+                        "Giants and Toys",
+                        "",
+                        "<img src=\"220px-Yasuzo_Masumura_(film_director).jpg\">",
+                        "増村 保造",
+                        "Yasuzo Masumura&nbsp;"
+                    ],
+                    "guid": "G^V%Y1MHy<",
+                    "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Un'altra esperienza innovativa è quella del {{c1::Shinema 57}}, collettivo indipendente nato nel 1957 e formato da giovani registi e critici cinematografici, tra i quali <b>Teshigahara Hiroshi </b>e <b>Hani Susumu</b>. Il loro obiettivo è produrre opere di stampo artistico in grado di proporre un'immagine diversa del cinema giapponese nei festival internazionali. Nonostante il collettivo realizzi un solo film, Tokyo (id., 1958), per stessa ammissione di Teshigahara \"debole e piatto\", questa esperienza si rivelerà importante per la successiva creazione di una struttura in grado di produrre e distribuire i film indipendenti degli anni sessanta: l'ATG.",
+                        ""
+                    ],
+                    "guid": "h`QTC:QBa:",
+                    "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alla base della <b>Shochiku nuberu bagu</b> (‘60-’65), il «gruppo dei sette» ({{c1::Shichinin no kai}}), che si proponeva di rinnovare il cinema nipponico.",
+                        ""
+                    ],
+                    "guid": "d9tt%}N?Dz",
+                    "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "A reckless student protester contemplates terrorism in a prescient film that confirmed Masahiro Shinoda as a fearless member of Japan’s iconoclastic New Wave.<span class=\"set-font-size\"></span>",
+                        "1960",
+                        "<img src=\"Capture d’écran de 2021-02-20 23-45-17.png\">",
+                        "乾いた湖",
+                        "Kawaita mizuumi&nbsp;",
+                        "Dry Lake&nbsp;a.k.a.&nbsp;Youth in Fury",
+                        "",
+                        "<img src=\"shinoda300.jpg\">",
+                        "篠田 正浩",
+                        "Masahiro Shinoda&nbsp;(篠田 正浩"
+                    ],
+                    "guid": "rOr/AHbYM)",
+                    "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Appartenente al filone <i>Taiyozoku,</i>&nbsp;decrive giovani rampanti che eludono le tradizioni sociali giapponesi per gettarsi nell'edonismo individualista portato del crescente successo economico nazionale. Jun è un giovane studente universitario di estrazione povera, caparbio e cocciuto, che trascorre il tempo con una banda di quattro amici capitanata dal ricco figlio di un industriale, in grado di provvedere economicamente a ogni loro passatempo. Per combattere la noia, i quattro prelevano fuori dalla banca la giovane segretaria del capitano d'industria, Makino, minacciando di rubare i soldi che ha appena ritirato. Si tratta solo di uno scherzo, e alla fine i soldi vengono riconsegnati, ma è l'avvio di un gioco pericoloso che evidenzia la distanza tra ricchezza e povertà, finzione e intensità, amore per se stessi e odio verso la società.</div>",
+                        "1960",
+                        "<img src=\"1183239.jpg\">",
+                        "ろくでなし",
+                        "Rokudenashi",
+                        "Good-For-Nothing",
+                        "",
+                        "<img src=\"focusyoshida1.jpg\">",
+                        "吉田 喜重",
+                        "Yoshida Yoshishige"
+                    ],
+                    "guid": "Hq%Xm_[:{1",
+                    "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
                     "tags": []
                 }
             ]
@@ -189,7 +325,6 @@
         "Funeral-parade-of-roses.jpg",
         "Hiroshi_Teshigahara.jpg",
         "Hokusai_Onryo.jpg",
-        "Kawaita_hana_Pale_Flower-860928125-large.jpg",
         "Kwaidan-poster.jpg",
         "MV5BNTRkNWY0NjgtMTM5MS00NmNhLThkNWQtOTcxY2QxYmFlMmExXkEyXkFqcGdeQXVyMjQzMDYxMTA@._V1_.jpg",
         "The-Insect-Woman-poster.jpg",
@@ -198,17 +333,14 @@
         "hani1968.jpg",
         "hani300.jpg",
         "imamura300.jpg",
-        "koji300.jpg",
         "matsumoto300 (1).jpg",
         "nagisa300.jpeg",
-        "paste-789d35322c29394a1dcd269793618670565f0e27.jpg",
         "pic-index-who-01.jpg",
         "shinji-somai.jpg",
-        "shinoda300.jpg",
         "suzuki300.jpg",
         "typhoon_300.jpg"
     ],
-    "mid": 1563539385566,
+    "mid": 1598188915031,
     "name": "VisualJapan",
     "note_models": [
         {
@@ -724,27 +856,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "<i>A young man breaks into a nurses' rooming house and one-by-one kills off the nurses therein.<br></i><br><br>Based on the mass murder spree of&nbsp;Richard Speck&nbsp;in 1966, who tortured&nbsp;and murdered eight&nbsp;student nurses&nbsp;from&nbsp;South Chicago&nbsp;Community Hospital.",
-                "1967",
-                "<img src=\"paste-789d35322c29394a1dcd269793618670565f0e27.jpg\">",
-                "犯された白衣",
-                "Okasareta Hakui",
-                "Violated Angels",
-                "The complete idiomatic expression of the title would be 白衣の天使 - はくいのてんし, that is nurse as \"angel in white\".",
-                "<img src=\"koji300.jpg\"><br>",
-                "",
-                "Kōji Wakamatsu"
-            ],
-            "guid": "CAtr-]o>:Q",
-            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
-            "tags": [
-                "NuuberuBaagu",
-                "ヌーベルバーグ"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "{{c1::<i>Art Theatre Guild&nbsp;(ATG)</i>}}&nbsp;was a film production company in Japan that started in 1961 and ran through to the mid-1980s, releasing mostly&nbsp;Japanese New Wave&nbsp;films. Some of the early films released by the company include&nbsp;Shōhei Imamura's&nbsp;<i>A Man Vanishes</i>&nbsp;(1967),&nbsp;Nagisa Oshima's&nbsp;<i>Diary Of A Shinjuku Thief</i>&nbsp;(1968) and&nbsp;<i>Death by Hanging</i>&nbsp;(1968),&nbsp;Toshio Matsumoto's masterpiece&nbsp;<i>Funeral Parade of Roses</i>&nbsp;(1969).",
                 ""
             ],
@@ -918,37 +1029,6 @@
                 "NuuberuBaagu",
                 "ヌーベルバーグ"
             ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<i>Muraki is a&nbsp;Yakuza&nbsp;hitman just released from prison. At an illegal gambling parlor, he finds himself drawn to a mysterious young woman named Saeko. Though Saeko loses large sums of money, she asks Muraki to find games with larger and larger stakes. The two become involved in an intense mutually destructive relationship.</i><div>Shinoda chose the subject of&nbsp;yakuza&nbsp;as he felt the yakuza world is the only place where a Japanese ceremonial structure is sustained.<i><br></i></div>",
-                "1964",
-                "<img src=\"Kawaita_hana_Pale_Flower-860928125-large.jpg\">",
-                "乾いた花",
-                "Kawaita hana",
-                "Pale Flower",
-                "乾いた is literaly \"dry\", \"parched\"",
-                "<img src=\"shinoda300.jpg\"><br>",
-                "篠田 正浩",
-                "Masahiro Shinoda"
-            ],
-            "guid": "rO|99tvp~M",
-            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
-            "tags": [
-                "NuuberuBaagu",
-                "ヌーベルバーグ"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "{{c1::Iwanami Eiga Seisakusho}} (岩波映画製作所) was a Japanese film production company. Founded in 1950 by people associated with the&nbsp;Iwanami Shoten&nbsp;publisher, it mainly focused on producing educational films and public relations documentaries.<span style=\"font-size: 16.6667px;\"> </span>Younger filmmakers later formed the Blue Group ({{c2::<b>Ao no Kai</b>}}) to discuss and debate documentary and cinema, and from their members emerged several of Japan's prominent postwar fiction and documentary film directors and cinematographers, including&nbsp;Shinsuke Ogawa and Noriaki Tsuchimoto.",
-                ""
-            ],
-            "guid": "qk?S#qmW?F",
-            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
-            "tags": []
         },
         {
             "__type__": "Note",
