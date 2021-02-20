@@ -1,0 +1,1127 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "d96271c8-73a1-11eb-92c9-4daffdb5cb18",
+    "deck_config_uuid": "d96271c9-73a1-11eb-92c9-4daffdb5cb18",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "d96271c9-73a1-11eb-92c9-4daffdb5cb18",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "05 new, 20 reviews",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 5,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 20
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "170px-Oni_in_pilgrim's_clothing.jpg",
+        "220px-Diary_of_a_Shinjuku_Thief_Poster.jpg",
+        "220px-Ishihara_Mishima.jpg",
+        "220px-Kon_Ichikawa.jpg",
+        "220px-Shūji_Terayama.jpg",
+        "220px-The_Burmese_Harp_Nikkatsu_1956_poster.jpg",
+        "316px-Yoshitoshi_The_Heavy_Basket.jpg",
+        "344px-Ugetsu_monogatari_poster.jpg",
+        "4898254",
+        "516a72xIK9L._AC_.jpg",
+        "51X40QKVXCL._AC_SY445_.jpg",
+        "605px-Kyosai,_Yokai_image.jpg",
+        "618px-23.Yuurei.jpg",
+        "7A0qboJ-0_I280EEx4GihbXzpDyrdOV8mzOKoiMAK8JI4Hk54IWfPTVkrqwxp4RzZfZzPnLPsRkmAUM1sdvEPfZ0JF758DGnRoVHT-dp6J8if0FVwr6CQRh4EtE_zYuXzwl_.jpg",
+        "AsamaSanso.jpg",
+        "Battles_Without_Honor_and_Humanity.jpg",
+        "Cruel_Story_of_Youth.jpg",
+        "Eros+MassacreDVD.jpg",
+        "Funeral-parade-of-roses.jpg",
+        "Hiroshi_Teshigahara.jpg",
+        "Hokusai_Onryo.jpg",
+        "Kawaita_hana_Pale_Flower-860928125-large.jpg",
+        "Kwaidan-poster.jpg",
+        "MV5BNTRkNWY0NjgtMTM5MS00NmNhLThkNWQtOTcxY2QxYmFlMmExXkEyXkFqcGdeQXVyMjQzMDYxMTA@._V1_.jpg",
+        "The-Insect-Woman-poster.jpg",
+        "_editor_button_styles.css",
+        "focusyoshida1.jpg",
+        "hani1968.jpg",
+        "hani300.jpg",
+        "image-original.jpg",
+        "imamura300.jpg",
+        "koji300.jpg",
+        "kuritta_kajitsu.jpg",
+        "matsumoto300 (1).jpg",
+        "nagisa300.jpeg",
+        "paste-789d35322c29394a1dcd269793618670565f0e27.jpg",
+        "pic-index-who-01.jpg",
+        "shinji-somai.jpg",
+        "shinoda300.jpg",
+        "suzuki300.jpg",
+        "typhoon_300.jpg"
+    ],
+    "mid": 1563539385566,
+    "name": "VisualJapan",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "css": "@import url(\"_editor_button_styles.css\");\n\n.card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n border: solid #afa3bf;\n padding: 1rem;\n max-width: 1200px;\n margin: 20px auto;\n}\n\n\n.cloze {\n color: blue;\n}\n\n.nightMode .cloze {\n color: lightblue;\n}\n\ndiv {\n margin: 1rem;\n}",
+            "flds": [
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Media",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "<div>{{cloze:Text}}</div>\n\n<div>{{Media}}</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "<div>{{cloze:Text}}</div>\n\n<div>{{Media}}</div>"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+            "css": "@import url(\"_editor_button_styles.css\");\n\n.card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n border: solid #afa3bf;\n\n max-width: 1200px;\n margin: 20px auto;\n}\n\n.tags {\n position: fixed;\n bottom: 0;\n right: 0;\n background: blue;\n color: white;\n padding: 0.5rem;\n border-radius: 10%;\n margin: 1rem;\n}\n\ndiv {\n  margin: 1rem;\n}\n\n.note {\n background: #E6E6FA; \n}\n",
+            "flds": [
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Description",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Year",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Poster",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Title Kanji",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Title Romaji",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Title International",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Title Notes",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Director Picture",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Director Kanji",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Director Romaji",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Movie",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1,
+                        9
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<div>{{Title Kanji}} - {{Title Romaji}} - <i>{{Title International}}</i></div>\n\n<div class=\"media\">{{Poster}}</div>\n\n<div class=\"note\">{{Title Notes}}</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Title",
+                    "ord": 0,
+                    "qfmt": "<div>What {{Year}} film by <b>{{Director Romaji}}</B> are we talking about?</div>\n\n<blockquote>{{Description}}</blockquote>"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<div>{{Director Romaji}} ({{Director Kanji}})</div>\n\n<section>{{Director Picture}}</section>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Director",
+                    "ord": 1,
+                    "qfmt": "<div>Who was the director for {{Title Kanji}} - {{Title Romaji}} - <i>{{Title International}}</i> ({{Year}})?</div>\n\n{{Poster}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "d9627262-73a1-11eb-92c9-4daffdb5cb18",
+            "css": "@import url(\"_editor_button_styles.css\");\n\n.card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n border: solid #afa3bf;\n padding: 1rem;\n max-width: 1200px;\n margin: 20px auto;\n}\n\n.tags {\n position: fixed;\n bottom: 0;\n right: 0;\n background: blue;\n color: white;\n padding: 0.5rem;\n border-radius: 10%;\n margin: 1rem;\n}\n\ndiv {\n  margin: 1rem;\n}\n\niframe {\n max-width: 100%;\n} ",
+            "flds": [
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Media",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n{{#Tags}}<div class=\"tags\">{{Tags}}</div>{{/Tags}}\n\n<div>{{Media}}</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}\n\n{{#Tags}}<div class=\"tags\">{{Tags}}</div>{{/Tags}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "在日韓国人 ({{c1::<i>Zainichi Kankokujin</i>}}) are&nbsp;ethnic&nbsp;Koreans&nbsp;who have permanent residency status in&nbsp;Japan&nbsp;or who have become Japanese citizens and whose immigration to Japan originated before 1945 or who are descendants of those immigrants. ",
+                ""
+            ],
+            "guid": "Na]vG(Ku=e",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-History",
+                "歴史"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::<i>Seishun eiga</i>}} (青春映画), alias teen film, is a film genre targeted at teenagers and young adults by the plot being based on their special interests, such as coming of age, attempting to fit in, bullying, peer pressure, first love, teen rebellion, conflict with parents, and teen angst or alienation.<br>",
+                ""
+            ],
+            "guid": "h*N^gF<|BJ",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "Genres",
+                "ジャンル"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Direct-to-video&nbsp;or&nbsp;straight-to-video&nbsp;- the&nbsp;release&nbsp;of a&nbsp;film,&nbsp;TV series, short or special to the public immediately on&nbsp;home video&nbsp;formats rather than&nbsp;a theatrical release&nbsp;or&nbsp;television&nbsp;broadcast - is also called {{c1::<i>Vシネマ</i>}}",
+                ""
+            ],
+            "guid": "Hhdfn`|+n@",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "Genres",
+                "ジャンル"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In its broadest sense, {{c1::Kaidan}} (怪談) refers to any&nbsp;ghost story&nbsp;or&nbsp;horror story, but it has an old-fashioned ring to it that carries the connotation of&nbsp;Edo period&nbsp;Japanese&nbsp;folktales.",
+                "<br><img src=\"Kwaidan-poster.jpg\">"
+            ],
+            "guid": "j;ot6E)He.",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-Horror",
+                "ホラー映画"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Jidaigeki}} (時代劇) is a&nbsp;genre&nbsp;of&nbsp;film,&nbsp;television,&nbsp;video game, and&nbsp;theatre&nbsp;in&nbsp;Japan. Literally meaning \"period dramas\", they are most often set during the&nbsp;Edo period&nbsp;of&nbsp;Japanese history, from 1603 to 1868.",
+                "<img src=\"344px-Ugetsu_monogatari_poster.jpg\">"
+            ],
+            "guid": "k-oC^u,V.4",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "Genres",
+                "ジャンル"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::<i>Yūrei</i>}} (幽霊) are figures in&nbsp;Japanese folklore&nbsp;analogous to the Western model of&nbsp;ghosts.",
+                "<img src=\"618px-23.Yuurei.jpg\">"
+            ],
+            "guid": "eQt7Cx?AC9",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-Horror",
+                "ホラー映画"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::<i>Yōkai</i>}} (妖怪) are a class of&nbsp;supernatural&nbsp;monsters and&nbsp;spirits&nbsp;in&nbsp;Japanese folklore, with mutable characteristic,&nbsp;from malevolent and mischievous entities to those who are considered to bring good fortune.",
+                "<img src=\"605px-Kyosai,_Yokai_image.jpg\">"
+            ],
+            "guid": "gBfYM5buv5",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-Horror",
+                "ホラー映画"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Onryō}} (怨霊) refers to a ghost (<i>yūrei</i>) believed to be capable of causing harm in the world of the living, injuring or killing enemies, or even causing natural disasters to exact&nbsp;vengeance&nbsp;to \"re-address\" the wrongs it received while alive.",
+                "<img src=\"Hokusai_Onryo.jpg\">"
+            ],
+            "guid": "A.jdP&tTBq",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-Horror",
+                "ホラー映画"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::<i>Oni</i>}} (鬼)<i style=\"\">&nbsp;</i>is a kind of&nbsp;<i>yōkai</i>, demon,&nbsp;ogre, or&nbsp;troll&nbsp;in&nbsp;Japanese folklore. They are typically portrayed as hulking figures with one or more horns growing out of their heads.",
+                "<img src=\"170px-Oni_in_pilgrim's_clothing.jpg\">"
+            ],
+            "guid": "yDMiBxV(w]",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-Horror",
+                "ホラー映画"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>({{c1::お化け -&nbsp;<i>Obake</i>}}<i>)&nbsp;</i>are a class of&nbsp;<i>yōkai</i>. Literally, the terms mean&nbsp;<i>a thing that changes</i>, referring to a state of transformation or&nbsp;shapeshifting.</div>",
+                "<img src=\"316px-Yoshitoshi_The_Heavy_Basket.jpg\">"
+            ],
+            "guid": "ht=/0D,QBd",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-Horror",
+                "ホラー映画"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "By the late 1970s a considerable number of {{c3::じしゅえいが}} (自主映画)&nbsp;- Self-Produced Films had been made by young directors in Japan, and the {{c2::Pia Film Festival}} was founded specifically to support this new area of filmmaking. Much of this new work came from filmmaking clubs in high schools and universities, {{c1::<i>Eiga Kenkyukai</i> or <i>Eiken</i>}} (映画研究会).",
+                "<img src=\"pic-index-who-01.jpg\" width=\"300px\">"
+            ],
+            "guid": "Q}JGe{H^ZF",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "Genres",
+                "ジャンル"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>The {{c1::Asama-Sansō Jiken}} (浅間山荘事件) was a&nbsp;hostage crisis&nbsp;and police siege in 1972. The police rescue operation on the final day of the standoff was the first marathon live television broadcast in Japan, lasting 10&nbsp;hours and 40&nbsp;minutes. The incident began when five armed members of the&nbsp;United Red Army&nbsp;(URA), following a bloody&nbsp;purge&nbsp;that left fourteen members of the group plus one bystander dead, broke into a mountain lodge below&nbsp;Mount Asama, taking the wife of the lodge-keeper as a hostage.</div>",
+                "<img src=\"AsamaSanso.jpg\">"
+            ],
+            "guid": "KPmsaY9_z-",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-History",
+                "歴史"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><i></i></div><div>{{c1::<i>Giri</i>}}<i><b>&nbsp;</b>(</i>義理) is a&nbsp;Japanese value&nbsp;roughly corresponding to \"obligation\", or even \"burden of obligation\". It is defined as \"to serve one's superiors with a self-sacrificing devotion\".</div>",
+                ""
+            ],
+            "guid": "v]FKV|SkTU",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "YakuzaEiga",
+                "ヤクザ映画"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::<i>Ninjō</i>}} (人情), \"human emotion or compassion\", is human feeling that complements and opposes inescapably the value of&nbsp;<i>giri</i>, or social obligation, within the Japanese worldview.",
+                ""
+            ],
+            "guid": "z0T`57f`<Q",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "YakuzaEiga",
+                "ヤクザ映画"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In the 1970s, just as moviegoers were getting tired of the ninkyo films, a new breed of yakuza films emerged, the&nbsp;実録映画 - {{c1::<i>Jitsuroku eiga</i>}}<i>,&nbsp;</i>\"actual record films\". These portrayed post-war yakuza not as honorable heirs to the samurai code, but as ruthless, treacherous street thugs living for their own desires.&nbsp;Many were based on true stories, and filmed in a&nbsp;documentary&nbsp;style with&nbsp;shaky camera.",
+                "<img src=\"Battles_Without_Honor_and_Humanity.jpg\">"
+            ],
+            "guid": "eyV+3[tF3y",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "YakuzaEiga",
+                "ヤクザ映画"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A subset of Yakuza films known as&nbsp;仁侠映画 - {{c1::<i>Ninkyo eiga</i>}}&nbsp;or \"chivalry films\" began to thrive in the 1960s. Most were created by the&nbsp;Toei&nbsp;studio and produced by Koji Shundo, who became close with actual yakuza before becoming a producer, and despite his denial, is said to have been one himself.&nbsp;Set in the&nbsp;Meiji&nbsp;and&nbsp;Taishō&nbsp;eras, the&nbsp;kimono-clad yakuza hero of ninkyo films was always portrayed as a stoic honorable outlaw torn between the contradictory values of&nbsp;<i>giri</i>&nbsp;(duty) and&nbsp;<i>ninjo</i>&nbsp;(personal feelings).&nbsp;",
+                ""
+            ],
+            "guid": "sGw!NSw7ml",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "YakuzaEiga",
+                "ヤクザ映画"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><i>Plastics salesman Oshima disappeared without a word to anyone, and has been missing for two years. The director and his crew follow Oshima's fiancé Yoshie and actor Shigeru Tsuyuguchi as they investigate the disappearance.</i><br></div>",
+                "1967",
+                "<img src=\"51X40QKVXCL._AC_SY445_.jpg\">",
+                "人間蒸発",
+                "Ningen Jōhatsu",
+                "A Man Disappears",
+                "",
+                "<img src=\"imamura300.jpg\">",
+                "",
+                "Shohei Imamura"
+            ],
+            "guid": "Au#z_t}tKK",
+            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "ATG",
+                "日本アート・シアター・ギルド"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It is the first film in Yoshida's trilogy of Japanese radicalism. Although the film is a biography of&nbsp;anarchist Sakae Ōsugi, the director stated that he didn't focus on him as a historical character&nbsp;<i>per se:<br></i><blockquote><i>Historical estimation only enlightens the past, and not the future [...]&nbsp;Ōsugi spoke of free love, which has the power to destroy the monogamous structure, then the family, and finally the state [...] It was because of this crime of the imaginary&nbsp; that the state massacred Osugi. Osugi was someone who envisioned a future.</i></blockquote>",
+                "1969",
+                "<img src=\"Eros+MassacreDVD.jpg\">",
+                "エロス＋虐殺",
+                "Erosu purasu gyakusatsu",
+                "Eros + Massacre",
+                "",
+                "<img src=\"focusyoshida1.jpg\">",
+                "",
+                "Yoshishige Yoshida"
+            ],
+            "guid": "GR&`s~0@/f",
+            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "ATG",
+                "日本アート・シアター・ギルド"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An {{c1::エクスプロイテーション映画}}&nbsp;is a&nbsp;film&nbsp;that attempts to succeed financially by exploiting current trends, niche genres, or&nbsp;lurid content. These are generally low-quality \"B movies\", sometimes attracting critical attention and&nbsp;cult followings.",
+                ""
+            ],
+            "guid": "FY)d^v<J`a",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "Genres",
+                "ジャンル"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Pinku eiga (ピンク映画)}}&nbsp;in its broadest sense includes almost any&nbsp;Japanese&nbsp;theatrical film that includes nudity or deals with sexual content.&nbsp;This encompasses everything from dramas to action thrillers and&nbsp;exploitation film&nbsp;features.",
+                ""
+            ],
+            "guid": "L-9lhPF&.r",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "Genres",
+                "ジャンル"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<i>A young man breaks into a nurses' rooming house and one-by-one kills off the nurses therein.<br></i><br><br>Based on the mass murder spree of&nbsp;Richard Speck&nbsp;in 1966, who tortured&nbsp;and murdered eight&nbsp;student nurses&nbsp;from&nbsp;South Chicago&nbsp;Community Hospital.",
+                "1967",
+                "<img src=\"paste-789d35322c29394a1dcd269793618670565f0e27.jpg\">",
+                "犯された白衣",
+                "Okasareta Hakui",
+                "Violated Angels",
+                "The complete idiomatic expression of the title would be 白衣の天使 - はくいのてんし, that is nurse as \"angel in white\".",
+                "<img src=\"koji300.jpg\"><br>",
+                "",
+                "Kōji Wakamatsu"
+            ],
+            "guid": "CAtr-]o>:Q",
+            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "NuuberuBaagu",
+                "ヌーベルバーグ"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::<i>Art Theatre Guild&nbsp;(ATG)</i>}}&nbsp;was a film production company in Japan that started in 1961 and ran through to the mid-1980s, releasing mostly&nbsp;Japanese New Wave&nbsp;films. Some of the early films released by the company include&nbsp;Shōhei Imamura's&nbsp;<i>A Man Vanishes</i>&nbsp;(1967),&nbsp;Nagisa Oshima's&nbsp;<i>Diary Of A Shinjuku Thief</i>&nbsp;(1968) and&nbsp;<i>Death by Hanging</i>&nbsp;(1968),&nbsp;Toshio Matsumoto's masterpiece&nbsp;<i>Funeral Parade of Roses</i>&nbsp;(1969).",
+                ""
+            ],
+            "guid": "QPcW^mtt<B",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-History",
+                "歴史"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<i>An adaptation of the novel of the same name by Shintaro Ishihara, the older brother of cast member Yujiro Ishihara. Two brothers who fall in love with the same woman and the resulting conflict.&nbsp;</i><div><br></div><div>It would later be known as a foundational work of the Sun Tribe genre.<br></div>",
+                "1956",
+                "<img src=\"kuritta_kajitsu.jpg\"><br>",
+                "狂った果実",
+                "Kurutta Kajitsu",
+                "Crazed Fruit",
+                "",
+                "<img src=\"image-original.jpg\">",
+                "",
+                "Nakahira Ko"
+            ],
+            "guid": "n}BjxTcOB5",
+            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "TaiyozokuEiga",
+                "太陽族映画"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><i>Transgender actor&nbsp;Pîtâ&nbsp;gives an astonishing performance as Eddie, hostess at Bar Genet – where she’s ignited a violent love-triangle with reigning drag queen Leda for the attentions of club owner Gonda.</i></div><div><i>One of Japan’s leading experimental filmmakers bends and distorts time, and freely mixes documentary interviews, Brechtian film-within-a-film asides, Oedipal premonitions of disaster, his own avant-garde shorts, and even on-screen cartoon balloons.&nbsp;Funeral Parade of Roses&nbsp;is a celebration of youth and subcultures, a condemnation of intolerance, and a one-of-kind cinematic experience.</i></div>",
+                "1969",
+                "<img src=\"Funeral-parade-of-roses.jpg\">",
+                "薔薇の葬列",
+                "Bara no Sōretsu",
+                "Funeral Parade of Roses",
+                "The title is a pun, as \"rose\" (<i>bara</i>) in Japanese can have a similar meaning to \"pansy\" in English slang.",
+                "<img src=\"matsumoto300 (1).jpg\">",
+                "松本 俊夫",
+                "Toshio Matsumoto"
+            ],
+            "guid": "nTLOs5URkq",
+            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "ATG",
+                "日本アート・シアター・ギルド"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Also known as&nbsp;<i>Pastoral Hide and Seek </i>is a&nbsp;young boys' coming of age tale set in a strange, carnivalesque village becomes the recreation of a memory that the director has twenty years later.",
+                "1974",
+                "<img src=\"MV5BNTRkNWY0NjgtMTM5MS00NmNhLThkNWQtOTcxY2QxYmFlMmExXkEyXkFqcGdeQXVyMjQzMDYxMTA@._V1_.jpg\" width=\"300px\">",
+                "Denen ni shisu",
+                "田園に死す",
+                "Pastoral: To Die in the Country",
+                "死す(る) is an archaic term for&nbsp;死ぬ",
+                "<img src=\"220px-Shūji_Terayama.jpg\">",
+                "",
+                "Shūji Terayama"
+            ],
+            "guid": "NQ8$*S>beP",
+            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "ATG",
+                "日本アート・シアター・ギルド"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Sakoku}} (鎖国), \"closed country\", was the&nbsp;isolationist&nbsp;foreign policy&nbsp;of the&nbsp;Japanese&nbsp;Tokugawa shogunate under which, for more than two centuries (1639-1854), relations and trade between Japan and other countries were severely limited, nearly all foreign nationals were barred from entering Japan and common Japanese people were kept from leaving the country.",
+                ""
+            ],
+            "guid": "pF&BsK;Gs6",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-History",
+                "歴史"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "水子供養 - {{c1::Mizuko Kuyō}} meaning \"water child&nbsp;memorial service\",&nbsp;is a&nbsp;Japanese&nbsp;ceremony for those who have had a&nbsp;miscarriage,&nbsp;stillbirth, or&nbsp;abortion.",
+                ""
+            ],
+            "guid": "I`.!GlsJ!p",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-Horror",
+                "ホラー映画"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Ubasute}} (姥捨て) is the supposed rare, old&nbsp;practice of&nbsp;senicide&nbsp;in&nbsp;Japan, whereby an infirm or&nbsp;elderly&nbsp;relative was carried to a mountain, or some other remote, desolate place, and left there to die. Is the subject of&nbsp;legend, but does not seem ever to have been an actual custom.",
+                ""
+            ],
+            "guid": "m7rpc[M=.D",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-History",
+                "歴史"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "被爆者&nbsp;or&nbsp;被曝者 - {{c1::Hibakusha}}<i><b>&nbsp;-&nbsp;</b></i>\"person affected by exposure [to a bomb]\" is a word designating the people affected by the 1945&nbsp;atomic bombings of Hiroshima and Nagasaki.",
+                ""
+            ],
+            "guid": "mQ7b;0gGCS",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-History",
+                "歴史"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>{{c1::アングラ}}, an abbreviation of the Japanese phrase \"underground theater\", {{c2::andaaguraundo engeki}} (アンダーグラウンド演劇), was a Japanese avant-garde theater movement in the 1960s and 1970s that reacted against the&nbsp;Brechtian&nbsp;modernism and formalist realism of postwar&nbsp;<i>Shingeki</i>&nbsp;theater in Japan to stage anarchic \"underground\" productions in tents, on street corners, and in small spaces that explored themes of primitivism, sexuality, and embodied physicality. A major figure in the Angura movement was Shūji Terayama.</div>",
+                ""
+            ],
+            "guid": "nK-sF``dJ",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "Intermediality"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The formal term used for units carrying out suicide attacks during 1944–1945 is {{c2::tokubetsu kōgekitai}}&nbsp;(特別攻撃隊), which literally means \"special attack unit\". This is usually abbreviated to {{c1::tokkōtai}}&nbsp;(特攻隊).",
+                ""
+            ],
+            "guid": "G&JF_aTvW9",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-History",
+                "歴史"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Shinjū}}&nbsp;(心中) in common parlance&nbsp;is used to refer to any group suicide of persons bound by love, typically lovers, parents and children, and even whole families.<br>",
+                ""
+            ],
+            "guid": "DeOmY/=r.E",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "Intermediality"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c1::kuroko}}&nbsp;(黒衣) &nbsp;are&nbsp;stagehands&nbsp;in traditional&nbsp;Japanese theatre, who dress all in black. They move&nbsp;scenery&nbsp;and&nbsp;props&nbsp;on stage, aiding in scene changes and costume changes.",
+                ""
+            ],
+            "guid": "KKEz&jBNtW",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "Intermediality"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<i>A harsh young man seduces a freeloading young woman and eventually takes advantage of her knack for hitch-hiking to rob middle-class men.&nbsp;</i><br><br><div>The director was already beginning to explore the themes he would soon become celebrated for: a focus on youth and on 'outsiders', and critical deconstructions of more stereotypical imagery in Japanese cinema.<br></div>",
+                "1960",
+                "<img src=\"Cruel_Story_of_Youth.jpg\">",
+                "青春残酷物語",
+                "Seishun Zankoku Monogatari",
+                "Cruel Story of Youth",
+                "",
+                "<img src=\"nagisa300.jpeg\">",
+                "",
+                "Nagisa Ōshima"
+            ],
+            "guid": "No3nHt!_Yj",
+            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "NuuberuBaagu",
+                "ヌーベルバーグ"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<i>Muraki is a&nbsp;Yakuza&nbsp;hitman just released from prison. At an illegal gambling parlor, he finds himself drawn to a mysterious young woman named Saeko. Though Saeko loses large sums of money, she asks Muraki to find games with larger and larger stakes. The two become involved in an intense mutually destructive relationship.</i><div>Shinoda chose the subject of&nbsp;yakuza&nbsp;as he felt the yakuza world is the only place where a Japanese ceremonial structure is sustained.<i><br></i></div>",
+                "1964",
+                "<img src=\"Kawaita_hana_Pale_Flower-860928125-large.jpg\">",
+                "乾いた花",
+                "Kawaita hana",
+                "Pale Flower",
+                "乾いた is literaly \"dry\", \"parched\"",
+                "<img src=\"shinoda300.jpg\"><br>",
+                "篠田 正浩",
+                "Masahiro Shinoda"
+            ],
+            "guid": "rO|99tvp~M",
+            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "NuuberuBaagu",
+                "ヌーベルバーグ"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Iwanami Eiga Seisakusho}} (岩波映画製作所) was a Japanese film production company. Founded in 1950 by people associated with the&nbsp;Iwanami Shoten&nbsp;publisher, it mainly focused on producing educational films and public relations documentaries.<span style=\"font-size: 16.6667px;\"> </span>Younger filmmakers later formed the Blue Group ({{c2::<b>Ao no Kai</b>}}) to discuss and debate documentary and cinema, and from their members emerged several of Japan's prominent postwar fiction and documentary film directors and cinematographers, including&nbsp;Shinsuke Ogawa and Noriaki Tsuchimoto.",
+                ""
+            ],
+            "guid": "qk?S#qmW?F",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<i>Born in a rural farming village in 1918, Tomé survives decades of Japanese social upheaval, as well as abuse and servitude at the hands of various men. Yet the director, ever the cinematic “entomologist,” refuses to make a victim of her, instead observing Tomé (played by the extraordinary Sachiko Hidari) as a fascinating, pragmatic creature of twentieth-century Japan. A portrait of opportunism and resilience in three generations of women.</i>",
+                "1963",
+                "<img src=\"The-Insect-Woman-poster.jpg\">",
+                "にっぽん昆虫記",
+                "Nippon Konchūki",
+                "The Insect Woman",
+                "The title is literaly <i>Entomological Chronicles of Japan</i>",
+                "<img src=\"imamura300.jpg\"><br>",
+                "今村 昌平",
+                "Shohei Imamura"
+            ],
+            "guid": "ly8=},<C]D",
+            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Rengō Sekigun}} (連合赤軍) -&nbsp;&nbsp;United Red Army - was a militant communist organization that operated in Japan between July 1971 and March 1972.&nbsp;The United Red Army had 29 members and lost 14 by killing them in less than a year. The URA came to a sudden end with the&nbsp;Asama-Sanso incident.<br>",
+                ""
+            ],
+            "guid": "bKz}eg-(sg",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-History",
+                "歴史"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Zoku}} (族) is a Sino-Japanese term meaning tribe, clan, or family. As a suffix it has been used extensively within Japan to define subcultural phenomena.<br>",
+                ""
+            ],
+            "guid": "v[O@wJ)NOx",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-History",
+                "歴史"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><div><i>Eiji Okada&nbsp;plays an amateur entomologist who has left Tokyo to study an unclassified species of beetle found in a vast desert. When he misses his bus back to civilization, he is persuaded to spend the night with a young widow (Kyoko Kishida) in her hut at the bottom of a sand dune. What results is one of cinema’s most unnerving and palpably erotic battles of the sexes, as well as a nightmarish depiction of everyday life as a Sisyphean struggle—an achievement that garnered the director an Academy Award nomination for best director.</i></div></div>",
+                "1964",
+                "<img src=\"516a72xIK9L._AC_.jpg\">",
+                "砂の女",
+                "Suna no onna",
+                "Woman in the Dunes",
+                "",
+                "<img src=\"Hiroshi_Teshigahara.jpg\">",
+                "",
+                "Hiroshi Teshigahara"
+            ],
+            "guid": "M3!sj5s)B&",
+            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "JapaneseNewWave"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Anpo tōso}} (安保闘争) is the name given to a&nbsp;series of massive protests in Japan from 1959 to 1960, and again in 1970, against the US-Japan Security Treaty, allowing USA to maintain military bases on Japanese soil.",
+                ""
+            ],
+            "guid": "bW-I1Lexie",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "J-History",
+                "歴史"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<i>In this jazzy gangster film, reformed killer Tetsu’s attempt to go straight is thwarted when his former cohorts call him back to Tokyo to help battle a rival gang. Director Seijun Suzuki’s onslaught of stylized violence and trippy colors —an anything-goes, in-your-face rampage. A&nbsp;delirious highlight of the brilliantly excessive Japanese cinema of the sixties.</i>",
+                "1966",
+                "<img src=\"4898254\">",
+                "東京流れ者",
+                "Tōkyō nagaremono",
+                "Tokyo Drifter",
+                "流れ者 is tramp, wandered",
+                "<img src=\"suzuki300.jpg\"><br>",
+                "",
+                "Suzuki Seijun"
+            ],
+            "guid": "mBZ]]B!kK~",
+            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "By 1971 the increased popularity of television had taken a heavy toll on the film industry and in order to remain profitable Nikkatsu turned to the production of {{c1::<i>Roman Porno</i>}} (from the French word for 'novel')&nbsp;and&nbsp;<i>pinku eiga</i>",
+                ""
+            ],
+            "guid": "Bb9PD,!xJ@",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<i>When a thief is caught stealing form a book shop by one of its employees, the two embark on an unusual, erotic adventure.</i>",
+                "1968",
+                "<img src=\"220px-Diary_of_a_Shinjuku_Thief_Poster.jpg\">",
+                "新宿泥棒日記",
+                "Shinjuku Dorobō Nikki",
+                "Diary of a Shinjuku Thief",
+                "",
+                "<img src=\"nagisa300.jpeg\"><br>",
+                "大島 渚",
+                "Nagisa Ōshima"
+            ],
+            "guid": "mQTL)t./Eh",
+            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The {{c1::Nikkatsu Kabushiki-gaisha}} (日活株式会社) is an entertainment company known for its&nbsp;film&nbsp;and&nbsp;television&nbsp;productions. It is Japan's oldest major&nbsp;movie studio,&nbsp;founded in 1912 during the silent film era.",
+                "<img src=\"7A0qboJ-0_I280EEx4GihbXzpDyrdOV8mzOKoiMAK8JI4Hk54IWfPTVkrqwxp4RzZfZzPnLPsRkmAUM1sdvEPfZ0JF758DGnRoVHT-dp6J8if0FVwr6CQRh4EtE_zYuXzwl_.jpg\">"
+            ],
+            "guid": "cq6W,jrlE",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<i>An insecure guy falls in love with a young nude model. But his past sexual abuse hinders him of loving inhibitedly.</i>",
+                "1968",
+                "<img src=\"hani1968.jpg\"><br>",
+                "初恋・地獄篇",
+                "Hatsukoi Jigokuhen",
+                "Nanami, The Inferno of First Love",
+                "初恋 = first love<div>地獄 = Hell</div><div>篇 = compilation of a text<br></div>",
+                "<img src=\"hani300.jpg\"><br>",
+                "羽仁 進",
+                "Susumu Hani"
+            ],
+            "guid": "G4H#0S5W>~",
+            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "NuuberuBaagu"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "One Zainichi Korean sued the Hitachi conglomerate in 1970 for “unhiring” him after they discovered his ancestry. Pak Chong Sok used his Japanese-sounding alias to sit for the company exam, but during routine paperwork upon being hired, he was required to submit proof of identification. Pak submitted his foreign registry card ({{c1::gaitōsho}}) and Hitachi immediately withdrew the offer of employment, openly stating that “We cannot hire a Korean.”",
+                ""
+            ],
+            "guid": "cC*3I9H/R7",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "History"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<i>This movie is the apotheosis of the director thematic predilection: characters interact and engage with the natural world. More than a backdrop, the weather, especially its changes, accompany pivotal moments. A typhoon pauses the inevitable flow of life and brings kids, junior high school students, with all their fears and desires together.</i>",
+                "1985",
+                "<img src=\"typhoon_300.jpg\"><br>",
+                "台風クラブ",
+                "Taifū kurabu",
+                "Typhoon Club",
+                "",
+                "<img src=\"shinji-somai.jpg\">",
+                "相米 慎二",
+                "Shinji Sômai"
+            ],
+            "guid": "yDhRf3jE6=",
+            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": [
+                "TheLostDecade"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<i>Based on a children's&nbsp;novel of the same name&nbsp;written by&nbsp;Michio Takeyama, it tells the story of Japanese soldiers who fought in the&nbsp;Burma Campaign&nbsp;during&nbsp;World War II. A member of the group goes missing after the war, and the soldiers hope to uncover whether their friend survived, and if he is the same person as a&nbsp;Buddhist monk&nbsp;they see playing a harp. The film was among the first to show the losses of the war from a Japanese soldier's perspective.</i>",
+                "1956",
+                "<img src=\"220px-The_Burmese_Harp_Nikkatsu_1956_poster.jpg\">",
+                "ビルマの竪琴",
+                "Biruma no tategoto",
+                "The Burmese Harp",
+                "",
+                "<img src=\"220px-Kon_Ichikawa.jpg\">",
+                "市川 崑",
+                "Kon Ichikawa"
+            ],
+            "guid": "zP%pT@MGw^",
+            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "全学連 - {{c1::Zengakuren}}&nbsp;is an abridgement of&nbsp;全日本学生自治会総連合 -&nbsp;<i>Zen Nihon Gakusei Jichikai Sō Rengō</i>,&nbsp;which literally means \"All-Japan Student Self-Government Associations League\", founded in 1948.&nbsp;Notable for organizing protests and marches, it has been involved in Japan's anti-Red Purge movement, the anti-military base movement, the anti-Security Treaty movement, and the struggle against the construction of Narita Airport.",
+                ""
+            ],
+            "guid": "GwK6]Niqd,",
+            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div>Who is the right-wing politician and author of the novel&nbsp;<i>Kurutta kajitsu</i>&nbsp;(狂った果実),&nbsp;Crazed Fruit, 1956, here in a photo with Mishima?</div>",
+                "Shintaro Ishihara&nbsp;(石原 慎太郎, born 30 September 1932)",
+                "<img src=\"220px-Ishihara_Mishima.jpg\">"
+            ],
+            "guid": "bsv1-Tf,^x",
+            "note_model_uuid": "d9627262-73a1-11eb-92c9-4daffdb5cb18",
+            "tags": []
+        }
+    ]
+}
