@@ -1,6 +1,108 @@
 {
     "__type__": "Deck",
-    "children": [],
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "19fd5bbb-73a7-11eb-92c9-4daffdb5cb18",
+            "deck_config_uuid": "d96271c9-73a1-11eb-92c9-4daffdb5cb18",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "220px-Ishihara_Mishima.jpg",
+                "AsamaSanso.jpg",
+                "_editor_button_styles.css",
+                "image-original.jpg",
+                "kuritta_kajitsu.jpg"
+            ],
+            "name": "Lesson1",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>The {{c1::Asama-Sansō Jiken}} (浅間山荘事件) was a&nbsp;hostage crisis&nbsp;and police siege in 1972. The police rescue operation on the final day of the standoff was the first marathon live television broadcast in Japan, lasting 10&nbsp;hours and 40&nbsp;minutes. The incident began when five armed members of the&nbsp;United Red Army&nbsp;(URA), following a bloody&nbsp;purge&nbsp;that left fourteen members of the group plus one bystander dead, broke into a mountain lodge below&nbsp;Mount Asama, taking the wife of the lodge-keeper as a hostage.</div>",
+                        "<img src=\"AsamaSanso.jpg\">"
+                    ],
+                    "guid": "KPmsaY9_z-",
+                    "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+                    "tags": [
+                        "J-History",
+                        "歴史"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Pinku eiga (ピンク映画)}}&nbsp;in its broadest sense includes almost any&nbsp;Japanese&nbsp;theatrical film that includes nudity or deals with sexual content.&nbsp;This encompasses everything from dramas to action thrillers and&nbsp;exploitation film&nbsp;features.",
+                        ""
+                    ],
+                    "guid": "L-9lhPF&.r",
+                    "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+                    "tags": [
+                        "Genres",
+                        "ジャンル"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<i>An adaptation of the novel of the same name by Shintaro Ishihara, the older brother of cast member Yujiro Ishihara. Two brothers who fall in love with the same woman and the resulting conflict.&nbsp;</i><div><br></div><div>It would later be known as a foundational work of the Sun Tribe genre.<br></div>",
+                        "1956",
+                        "<img src=\"kuritta_kajitsu.jpg\"><br>",
+                        "狂った果実",
+                        "Kurutta Kajitsu",
+                        "Crazed Fruit",
+                        "",
+                        "<img src=\"image-original.jpg\">",
+                        "",
+                        "Nakahira Ko"
+                    ],
+                    "guid": "n}BjxTcOB5",
+                    "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
+                    "tags": [
+                        "TaiyozokuEiga",
+                        "太陽族映画"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Rengō Sekigun}} (連合赤軍) -&nbsp;&nbsp;United Red Army - was a militant communist organization that operated in Japan between July 1971 and March 1972.&nbsp;The United Red Army had 29 members and lost 14 by killing them in less than a year. The URA came to a sudden end with the&nbsp;Asama-Sanso incident.<br>",
+                        ""
+                    ],
+                    "guid": "bKz}eg-(sg",
+                    "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+                    "tags": [
+                        "J-History",
+                        "歴史"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "全学連 - {{c1::Zengakuren}}&nbsp;is an abridgement of&nbsp;全日本学生自治会総連合 -&nbsp;<i>Zen Nihon Gakusei Jichikai Sō Rengō</i>,&nbsp;which literally means \"All-Japan Student Self-Government Associations League\", founded in 1948.&nbsp;Notable for organizing protests and marches, it has been involved in Japan's anti-Red Purge movement, the anti-military base movement, the anti-Security Treaty movement, and the struggle against the construction of Narita Airport.",
+                        ""
+                    ],
+                    "guid": "GwK6]Niqd,",
+                    "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>Who is the right-wing politician and author of the novel&nbsp;<i>Kurutta kajitsu</i>&nbsp;(狂った果実),&nbsp;Crazed Fruit, 1956, here in a photo with Mishima?</div>",
+                        "Shintaro Ishihara&nbsp;(石原 慎太郎, born 30 September 1932)",
+                        "<img src=\"220px-Ishihara_Mishima.jpg\">"
+                    ],
+                    "guid": "bsv1-Tf,^x",
+                    "note_model_uuid": "d9627262-73a1-11eb-92c9-4daffdb5cb18",
+                    "tags": []
+                }
+            ]
+        }
+    ],
     "crowdanki_uuid": "d96271c8-73a1-11eb-92c9-4daffdb5cb18",
     "deck_config_uuid": "d96271c9-73a1-11eb-92c9-4daffdb5cb18",
     "deck_configurations": [
@@ -57,7 +159,6 @@
     "media_files": [
         "170px-Oni_in_pilgrim's_clothing.jpg",
         "220px-Diary_of_a_Shinjuku_Thief_Poster.jpg",
-        "220px-Ishihara_Mishima.jpg",
         "220px-Kon_Ichikawa.jpg",
         "220px-Shūji_Terayama.jpg",
         "220px-The_Burmese_Harp_Nikkatsu_1956_poster.jpg",
@@ -69,7 +170,6 @@
         "605px-Kyosai,_Yokai_image.jpg",
         "618px-23.Yuurei.jpg",
         "7A0qboJ-0_I280EEx4GihbXzpDyrdOV8mzOKoiMAK8JI4Hk54IWfPTVkrqwxp4RzZfZzPnLPsRkmAUM1sdvEPfZ0JF758DGnRoVHT-dp6J8if0FVwr6CQRh4EtE_zYuXzwl_.jpg",
-        "AsamaSanso.jpg",
         "Battles_Without_Honor_and_Humanity.jpg",
         "Cruel_Story_of_Youth.jpg",
         "Eros+MassacreDVD.jpg",
@@ -84,10 +184,8 @@
         "focusyoshida1.jpg",
         "hani1968.jpg",
         "hani300.jpg",
-        "image-original.jpg",
         "imamura300.jpg",
         "koji300.jpg",
-        "kuritta_kajitsu.jpg",
         "matsumoto300 (1).jpg",
         "nagisa300.jpeg",
         "paste-789d35322c29394a1dcd269793618670565f0e27.jpg",
@@ -519,19 +617,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "<div>The {{c1::Asama-Sansō Jiken}} (浅間山荘事件) was a&nbsp;hostage crisis&nbsp;and police siege in 1972. The police rescue operation on the final day of the standoff was the first marathon live television broadcast in Japan, lasting 10&nbsp;hours and 40&nbsp;minutes. The incident began when five armed members of the&nbsp;United Red Army&nbsp;(URA), following a bloody&nbsp;purge&nbsp;that left fourteen members of the group plus one bystander dead, broke into a mountain lodge below&nbsp;Mount Asama, taking the wife of the lodge-keeper as a hostage.</div>",
-                "<img src=\"AsamaSanso.jpg\">"
-            ],
-            "guid": "KPmsaY9_z-",
-            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
-            "tags": [
-                "J-History",
-                "歴史"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "<div><i></i></div><div>{{c1::<i>Giri</i>}}<i><b>&nbsp;</b>(</i>義理) is a&nbsp;Japanese value&nbsp;roughly corresponding to \"obligation\", or even \"burden of obligation\". It is defined as \"to serve one's superiors with a self-sacrificing devotion\".</div>",
                 ""
             ],
@@ -639,19 +724,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::Pinku eiga (ピンク映画)}}&nbsp;in its broadest sense includes almost any&nbsp;Japanese&nbsp;theatrical film that includes nudity or deals with sexual content.&nbsp;This encompasses everything from dramas to action thrillers and&nbsp;exploitation film&nbsp;features.",
-                ""
-            ],
-            "guid": "L-9lhPF&.r",
-            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
-            "tags": [
-                "Genres",
-                "ジャンル"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "<i>A young man breaks into a nurses' rooming house and one-by-one kills off the nurses therein.<br></i><br><br>Based on the mass murder spree of&nbsp;Richard Speck&nbsp;in 1966, who tortured&nbsp;and murdered eight&nbsp;student nurses&nbsp;from&nbsp;South Chicago&nbsp;Community Hospital.",
                 "1967",
                 "<img src=\"paste-789d35322c29394a1dcd269793618670565f0e27.jpg\">",
@@ -681,27 +753,6 @@
             "tags": [
                 "J-History",
                 "歴史"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<i>An adaptation of the novel of the same name by Shintaro Ishihara, the older brother of cast member Yujiro Ishihara. Two brothers who fall in love with the same woman and the resulting conflict.&nbsp;</i><div><br></div><div>It would later be known as a foundational work of the Sun Tribe genre.<br></div>",
-                "1956",
-                "<img src=\"kuritta_kajitsu.jpg\"><br>",
-                "狂った果実",
-                "Kurutta Kajitsu",
-                "Crazed Fruit",
-                "",
-                "<img src=\"image-original.jpg\">",
-                "",
-                "Nakahira Ko"
-            ],
-            "guid": "n}BjxTcOB5",
-            "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
-            "tags": [
-                "TaiyozokuEiga",
-                "太陽族映画"
             ]
         },
         {
@@ -920,19 +971,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "{{c1::Rengō Sekigun}} (連合赤軍) -&nbsp;&nbsp;United Red Army - was a militant communist organization that operated in Japan between July 1971 and March 1972.&nbsp;The United Red Army had 29 members and lost 14 by killing them in less than a year. The URA came to a sudden end with the&nbsp;Asama-Sanso incident.<br>",
-                ""
-            ],
-            "guid": "bKz}eg-(sg",
-            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
-            "tags": [
-                "J-History",
-                "歴史"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "{{c1::Zoku}} (族) is a Sino-Japanese term meaning tribe, clan, or family. As a suffix it has been used extensively within Japan to define subcultural phenomena.<br>",
                 ""
             ],
@@ -1100,27 +1138,6 @@
             ],
             "guid": "zP%pT@MGw^",
             "note_model_uuid": "d96271fc-73a1-11eb-92c9-4daffdb5cb18",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "全学連 - {{c1::Zengakuren}}&nbsp;is an abridgement of&nbsp;全日本学生自治会総連合 -&nbsp;<i>Zen Nihon Gakusei Jichikai Sō Rengō</i>,&nbsp;which literally means \"All-Japan Student Self-Government Associations League\", founded in 1948.&nbsp;Notable for organizing protests and marches, it has been involved in Japan's anti-Red Purge movement, the anti-military base movement, the anti-Security Treaty movement, and the struggle against the construction of Narita Airport.",
-                ""
-            ],
-            "guid": "GwK6]Niqd,",
-            "note_model_uuid": "d96271cc-73a1-11eb-92c9-4daffdb5cb18",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<div>Who is the right-wing politician and author of the novel&nbsp;<i>Kurutta kajitsu</i>&nbsp;(狂った果実),&nbsp;Crazed Fruit, 1956, here in a photo with Mishima?</div>",
-                "Shintaro Ishihara&nbsp;(石原 慎太郎, born 30 September 1932)",
-                "<img src=\"220px-Ishihara_Mishima.jpg\">"
-            ],
-            "guid": "bsv1-Tf,^x",
-            "note_model_uuid": "d9627262-73a1-11eb-92c9-4daffdb5cb18",
             "tags": []
         }
     ]
